@@ -1,0 +1,5 @@
+Here is the image dataset we will use in the lecture. Notebook is arranged in a way that it will be read from personal Drive. 
+
+Check the notebook for more details.
+
+https://drive.google.com/file/d/1fzaWN9j6FGIvkdaj6qJIKHZJRS9gP-ty/view?usp=sharing

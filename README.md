@@ -1,6 +1,3 @@
-DDE_II_Medium_Term_Charging_Demand_Forecasting
-==============================
-
 Project for the DDE II subject for the Masters Degree in Mechanical Engineering
 
 Project Organization
